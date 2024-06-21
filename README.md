@@ -26,6 +26,8 @@ Now let’s understand the basic workflow of a RAG based LLM architecture in thr
 2. Synthesis
 3. Retrieval
 
+<img src="https://github.com/Ananya0104/Basic-RAG-Implementation/blob/main/rag.jpeg">
+
 
 ### Ingestion
 
